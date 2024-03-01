@@ -77,7 +77,7 @@ ImageLabelerPro works like a helpful wizard in the cloud! The wizard, called `im
 - Go to the Lambda Console.
 - Create a new function named **imagelabelerpro-label-Function**.
 - Select Runtime as `Python 3.8`
-- Select the role that we have created earlier
+- Select the role that we have created earlier - `ImageLabelerProLambdaRole`
 - Copy the provided code and paste it into the function - [imagelabelerpro-label-function](./Source/imagelabelerpro-label-fnction.py)
 - Update the output bucket name in the code to match your results bucket.
     ![alt text](./Assets/change-bucket-name.png)
