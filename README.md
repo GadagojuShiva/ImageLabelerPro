@@ -110,4 +110,4 @@ ImageLabelerPro works like a helpful wizard in the cloud! The wizard, called `im
 
 ## Conclusion
 
-ImageLabelerPro simplifies the process of image labeling using AWS services. Follow the provided steps to set up the necessary resources, create Lambda functions, and verify the labeled results. Thank you for using ImageLabelerPro!
+ImageLabelerPro simplifies the process of image labeling using AWS services. Follow the provided steps to set up the necessary resources, create Lambda functions, and verify the labeled results. Your feedback is highly valued, and if you have any suggestions for enhancements or improvements, please feel free to open an issue or contribute to the project on GitHub. Thank you for using ImageLabelerPro!
