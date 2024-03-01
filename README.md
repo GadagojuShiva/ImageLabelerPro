@@ -56,7 +56,7 @@ ImageLabelerPro works like a helpful wizard in the cloud! The wizard, called `im
 - Go to the Amazon S3 Console.
 - Create a new S3 bucket for image uploads, e.g., **imagelabelerpro-upload-bucket**.
 - Create another S3 bucket for storing labeled results, e.g., **imagelabelerpro-results-bucket**.
-  - Ensure that the results bucket has public access. Use the following policy:
+- Ensure that the results bucket has public access. Use the following policy:
     ```json
     {
       "Version": "2012-10-17",
