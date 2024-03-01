@@ -103,9 +103,10 @@ ImageLabelerPro works like a helpful wizard in the cloud! The wizard, called `im
 
 - Click on the labeled image and view the JSON-formatted output.
     ![alt text](./Assets/results2.png)
-    ![alt text](./Assets/results-3.png)
 - Click on the object-url
+    ![alt text](./Assets/results-3.png)
     ![alt text](./Assets/final.png)
+- Used image - ![Sample-Image](./Assets/sample.jpg)
 
 ## Conclusion
 
